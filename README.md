@@ -1,5 +1,5 @@
 # second-project
-MEAN Stack Angular Typescript Project
+MEAN Stack Angular Typescript Project installation Guide
 
 Quick Start
 Install node.js 
